@@ -1,5 +1,6 @@
 import React from "react";
-import { work } from "../data/work";
+import { work } from "../../data/work";
+import WorkSlider from "../common/WorkSlider";
 
 const Works = () => {
   return (
@@ -8,8 +9,10 @@ const Works = () => {
 
       {work.map((w) => (
         <div key={w.id} className="work">
-          <div className="work__preview">
-            <img src={require(`/src/${w.imgUrl}`)} alt="" />
+          <div className="work__preview_wrapper">
+            <div className="work__preview">
+              <WorkSlider items={w.imgUrls} />
+            </div>
           </div>
 
           <div className="work__content">
@@ -20,8 +23,10 @@ const Works = () => {
             </div>
 
             <ul className="tags">
-              {w.tags.map((t) => (
-                <li className="tags__item">{t}</li>
+              {w.tags.map((t, i) => (
+                <li key={i} className="tags__item">
+                  {t}
+                </li>
               ))}
             </ul>
 

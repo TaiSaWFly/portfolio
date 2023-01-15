@@ -1,6 +1,6 @@
 import React from "react";
-import Sidebar from "./ui/Sidebar";
-import Works from "./ui/Works";
+import Sidebar from "./components/ui/Sidebar";
+import Works from "./components/ui/Works";
 
 function App() {
   return (

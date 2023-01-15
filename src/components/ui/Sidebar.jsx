@@ -1,19 +1,19 @@
 import React from "react";
 import Social from "./Social";
-import { ReactComponent as HH } from "../assets/images/social/hh.svg";
+import { ReactComponent as HH } from "../../assets/images/social/hh.svg";
 
 const Sidebar = () => {
   return (
     <aside className="sidebar">
       <div className="sidebar__header">
-        <img src={require("../assets/images/sidebar-header.jpg")} alt="" />
+        <img src={require("../../assets/images/sidebar-header.jpg")} alt="" />
       </div>
 
       <div className="sidebar__content">
         <div className="profile">
           <img
             className="profile__avatar"
-            src={require("../assets/images/taisa.jpg")}
+            src={require("../../assets/images/taisa.jpg")}
             alt=""
           />
           <div className="profile__header">
