@@ -30,7 +30,7 @@ export const work = [
     id: "3",
     name: "Trans Logistic",
     description:
-      "Стастический лендинг транспортной копмании. Так же реализован адаптив и анимация на JQuery.",
+      "Статический лендинг транспортной копмании. Так же реализован адаптив и анимация на JQuery.",
     imgUrl: "assets/images/works/logistic.jpg",
     tags: ["HTML", "CSS", "JavaScript", "JQuery"],
     repository: "https://github.com/TaiSaWFly/logistic",
@@ -38,7 +38,7 @@ export const work = [
   {
     id: "4",
     name: "Houses",
-    description: "Стастический лендинг сайта продажи домом.",
+    description: "Статический лендинг сайта продажи деревянных домом.",
     imgUrl: "assets/images/works/houses.jpg",
     tags: ["HTML", "CSS"],
     repository: "https://github.com/TaiSaWFly/Houses",
