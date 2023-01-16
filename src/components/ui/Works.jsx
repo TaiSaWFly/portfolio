@@ -31,11 +31,20 @@ const Works = () => {
             </ul>
 
             <div className="work__footer">
+              {w.url && (
+                <a
+                  className="btn btn--green btn--rounded btn--sm"
+                  href={w.url}
+                  target="blank">
+                  Демо
+                </a>
+              )}
+
               <a
                 className="btn btn--blue btn--rounded btn--sm"
                 href={w.repository}
                 target="blank">
-                Ссылка на репозиторий
+                Репозиторий
               </a>
             </div>
           </div>

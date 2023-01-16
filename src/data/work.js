@@ -49,6 +49,7 @@ export const work = [
     ],
     tags: ["HTML", "CSS", "JavaScript", "JQuery"],
     repository: "https://github.com/TaiSaWFly/logistic",
+    url: "https://taisawfly.github.io/logistic/",
   },
   {
     id: "4",
@@ -60,6 +61,7 @@ export const work = [
     ],
     tags: ["HTML", "CSS"],
     repository: "https://github.com/TaiSaWFly/Houses",
+    url: "https://taisawfly.github.io/Houses/index/index.html",
   },
   {
     id: "5",
@@ -72,5 +74,6 @@ export const work = [
     ],
     tags: ["HTML", "CSS", "JavaScript"],
     repository: "https://github.com/TaiSaWFly/customTimer",
+    url: "https://taisawfly.github.io/customTimer/",
   },
 ];
