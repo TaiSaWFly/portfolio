@@ -11,7 +11,7 @@ export const work = [
       "assets/images/works/shshop/sh4.jpg",
       "assets/images/works/shshop/sh5.jpg",
     ],
-    tags: ["React", "Redux", "Node.js", "MongoDB", "SCSS"],
+    tags: ["React", "Redux", "Node.js", "Docker", "MongoDB", "SCSS"],
     repository: "https://github.com/TaiSaWFly/sh-shop-local",
   },
   {
@@ -32,6 +32,7 @@ export const work = [
       "MongoDB",
       "Firebase",
       "ESLint",
+      "Docker",
       "Bootstrap",
       "CSS",
     ],
