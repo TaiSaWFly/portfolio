@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.25711f59.css",
-    "main.js": "/portfolio/static/js/main.f2ce3130.js",
+    "main.js": "/portfolio/static/js/main.cfc91b2e.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/taisa.jpg": "/portfolio/static/media/taisa.b17772b622549834959e.jpg",
     "static/media/logistic1.jpg": "/portfolio/static/media/logistic1.1d2bb32d71a9ee70753c.jpg",
@@ -30,11 +30,11 @@
     "static/media/vk.svg": "/portfolio/static/media/vk.ad58d58df663432e526f2588f77766dd.svg",
     "index.html": "/portfolio/index.html",
     "main.25711f59.css.map": "/portfolio/static/css/main.25711f59.css.map",
-    "main.f2ce3130.js.map": "/portfolio/static/js/main.f2ce3130.js.map",
+    "main.cfc91b2e.js.map": "/portfolio/static/js/main.cfc91b2e.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25711f59.css",
-    "static/js/main.f2ce3130.js"
+    "static/js/main.cfc91b2e.js"
   ]
 }
