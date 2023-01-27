@@ -1,14 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.25711f59.css",
-    "main.js": "/portfolio/static/js/main.cfc91b2e.js",
+    "main.js": "/portfolio/static/js/main.96b815aa.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/taisa.jpg": "/portfolio/static/media/taisa.b17772b622549834959e.jpg",
     "static/media/logistic1.jpg": "/portfolio/static/media/logistic1.1d2bb32d71a9ee70753c.jpg",
     "static/media/houses1.jpg": "/portfolio/static/media/houses1.e0eca11b035501275671.jpg",
     "static/media/houses2.jpg": "/portfolio/static/media/houses2.654e217717f0700ad7fe.jpg",
     "static/media/sh1.jpg": "/portfolio/static/media/sh1.c6e5d3efd275f3dec664.jpg",
+    "static/media/gb3.jpg": "/portfolio/static/media/gb3.08eb9f3e0016dc671536.jpg",
+    "static/media/gb1.jpg": "/portfolio/static/media/gb1.eff1017ca2830ca187e7.jpg",
     "static/media/fc1.jpg": "/portfolio/static/media/fc1.e49e1ddbcfefa8cc2dd6.jpg",
+    "static/media/gb2.jpg": "/portfolio/static/media/gb2.f49a1e38a77f750938a8.jpg",
     "static/media/sh3.jpg": "/portfolio/static/media/sh3.9a9441cd5a63505b0b35.jpg",
     "static/media/fc4.jpg": "/portfolio/static/media/fc4.0fee8f0d0b8e69aa694b.jpg",
     "static/media/logistic2.jpg": "/portfolio/static/media/logistic2.dfd514153b8e2e504d2e.jpg",
@@ -30,11 +33,11 @@
     "static/media/vk.svg": "/portfolio/static/media/vk.ad58d58df663432e526f2588f77766dd.svg",
     "index.html": "/portfolio/index.html",
     "main.25711f59.css.map": "/portfolio/static/css/main.25711f59.css.map",
-    "main.cfc91b2e.js.map": "/portfolio/static/js/main.cfc91b2e.js.map",
+    "main.96b815aa.js.map": "/portfolio/static/js/main.96b815aa.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25711f59.css",
-    "static/js/main.cfc91b2e.js"
+    "static/js/main.96b815aa.js"
   ]
 }
